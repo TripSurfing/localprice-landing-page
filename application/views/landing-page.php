@@ -31,12 +31,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 				<div class="row content">
 					<div class="col m4 offset-m3 s12">
-						<h4>Best way to learn about local prices</h4>
+						<h4>Know the local price</h4>
 						<ul>
-							<li>Search for the prices anytime </li>
-							<li>Use anywhere without Wi-Fi</li>
-							<li>Find best place to buy</li>
-							<li>Remember what you’ll buy</li>
+							<li>Traveler's price advice</li>
+							<li>No internet needed</li>
+							<li>Learn where to buy</li>
+							<li>Save your favorites</li>
 							<li>It’s <strong><i>free!</i></strong></li>
 						</ul>
 						<img class="button-store" src="<?= base_url('static/img/buttonGoogle.png') ?>" alt="button">
